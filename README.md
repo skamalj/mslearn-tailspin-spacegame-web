@@ -1,7 +1,7 @@
 
 [![Build Status](https://dev.azure.com/skamalj-org/Space%20Game%20-%20web%20Pipeline/_apis/build/status/skamalj.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/skamalj-org/Space%20Game%20-%20web%20Pipeline/_build/latest?definitionId=8&branchName=master)
 
-https://sonarcloud.io/api/project_badges/quality_gate?project=space-game-web-azdevops
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-azdevops&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-azdevops)
 
 # Contributing
 
